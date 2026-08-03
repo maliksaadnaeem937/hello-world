@@ -1,3 +1,3 @@
 hello-world repo for agent
 
-1) first update feature/login
+add register endpoint
